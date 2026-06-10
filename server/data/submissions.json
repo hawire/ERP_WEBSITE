@@ -1,0 +1,28 @@
+[
+  {
+    "id": "e2c35cb98632623e249d54df3538e5df",
+    "createdAt": "2026-06-10T18:05:56.607Z",
+    "type": "demo",
+    "name": "abel debebe",
+    "email": "add@gmail.com",
+    "company": "new",
+    "phone": "+251941877627",
+    "employees": "51 – 200 employees",
+    "industry": "NGO / Non-profit",
+    "status": "new",
+    "read": false
+  },
+  {
+    "id": "e1f42fefb304f69420fab64b424e25b4",
+    "createdAt": "2026-06-10T18:00:53.835Z",
+    "type": "demo",
+    "name": "BITANIA FINOTESELAM",
+    "email": "example@email.com",
+    "company": "Bitu",
+    "phone": "0941877627",
+    "employees": "1 – 50 employees",
+    "industry": "Hospitality",
+    "status": "new",
+    "read": true
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "e4fae41d38d265d08ff9170ad4b80412",
+    "email": "hanafinoteselam.15@gmail.com",
+    "name": "hana",
+    "passwordHash": "$2a$10$yFAzD/iC6TY.nHQdXDCDzeTfUHD.01fV42VUSFid3817olK9V2wfK",
+    "verified": false,
+    "verificationToken": "6c1c793299c11bdf6f4bb0415eba296b8fa4a9c0019ab1b3933ea0f9a6e755af",
+    "verificationExpires": 1781197798681,
+    "createdAt": "2026-06-10T14:53:45.522Z"
+  },
+  {
+    "id": "7e8707c30172293652e5644ef699182b",
+    "email": "test@integracnc.com",
+    "name": "Admin",
+    "passwordHash": "$2a$10$fAFh6u7jypqVePYTpqzJuOVEzn0SAIoJhr/yanoe9N9/npVdQfJy6",
+    "verified": true,
+    "verificationToken": null,
+    "verificationExpires": null,
+    "createdAt": "2026-06-10T16:52:25.429Z"
+  }
+]
